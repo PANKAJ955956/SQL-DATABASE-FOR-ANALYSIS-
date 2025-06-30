@@ -1,0 +1,24 @@
+
+---
+
+✅ **Add a `/scripts/` Folder**
+- Place `.sql` files here with your schema, sample data inserts, and analysis queries.
+- Example files:
+  - `01_create_tables.sql`
+  - `02_insert_sample_data.sql`
+  - `03_analysis_queries.sql`
+
+---
+
+✅ **Use Issues & Projects**
+- Open GitHub Issues for tasks (e.g., “Add attendance analysis query”).
+- Use the Projects tab to track your to-dos, if you prefer a Kanban board.
+
+---
+
+✅ **Next Steps**
+- Upload your SQL scripts.
+- Add a license (MIT/BSD/etc.) if you plan to share publicly.
+- Share your repo link on your resume or LinkedIn.
+
+Would you like help writing your first SQL scripts or structuring your database schema?
